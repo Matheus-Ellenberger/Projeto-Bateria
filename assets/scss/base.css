@@ -30,6 +30,10 @@
   margin: 40px 0px;
 }
 #bateria .container .botoes .botaoStyle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: sans-serif;
   width: 6rem;
   height: 6rem;
   font-size: 2rem;
@@ -41,7 +45,6 @@
 #bateria .container .botoes .botaoStyle:hover {
   border: 4px solid #ffff00;
   color: #ffff00;
-  font-size: 2.1rem;
 }
 #bateria .container #input {
   width: 19.1rem;
