@@ -25,4 +25,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Aqui esta um preview do projeto concluido!
 
 
-<img src="./img/calculadora.png" width="400px">
+<img src="./assets/img/bateria.png" width="400px">
